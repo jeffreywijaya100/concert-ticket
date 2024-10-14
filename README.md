@@ -1,2 +1,2 @@
 # concert-ticket
-Program untuk pengaturan pembelian tiket konser. Program WAJIB menggunakan Array. 
+A program for managing concert ticket purchases. The program MUST use Array. 
