@@ -1,2 +1,2 @@
 # concert-ticket
-program untuk pengaturan pembelian tiket konser
+Program untuk pengaturan pembelian tiket konser. Program WAJIB menggunakan Array. 
